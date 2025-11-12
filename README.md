@@ -4,7 +4,7 @@ icon: hand-wave
 
 # Welcome to the Excel Address Formatter docs
 
-With the [**Excel Address Formatter**](https://pythonandvba.com/excel-address-formatter/)[ ](https://pythonandvba.com/excel-distance-calculator) you can quickly clean, verify, and standardize addresses directly in Excel. It fixes incomplete entries and converts them into proper USPS mailing format.
+With the [**Excel Address Formatter**](https://pythonandvba.com/excel-address-formatter/) you can quickly clean, verify, and standardize addresses directly in Excel. It fixes incomplete entries and converts them into proper USPS mailing format.
 
 ### Jump right in:
 
